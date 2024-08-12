@@ -1,0 +1,21 @@
+USER,"<image>
+mô tả tam đình. Với Tam đình bao gồm ""thượng đình"" là từ trán đến lông mày, ""trung đình"" là từ lông mày đến sống mũi, ""hạ đình"" là từ dưới mũi đến cằm"
+ASSISTANT,"Trong ảnh, người đàn ông có ""thượng đình"" (trán) rộng và đầy đặn, ""trung đình"" (lông mày) rậm và ""hạ đình"" (mũi và cằm) thon gọn. </s>"
+USER,Mô tả khuôn mặt
+ASSISTANT,"Người đàn ông trong ảnh có khuôn mặt hình bầu dục, với các đặc điểm cân đối và hài hòa. Khuôn mặt của anh ấy có hình dạng tròn trịa, với các đường nét mềm mại và không có góc cạnh. </s>"
+USER,"mặt của người này ngang hay dài, hay như thế nào?"
+ASSISTANT,"Mặt của người đàn ông trong ảnh có hình bầu dục, có nghĩa là nó có chiều dài lớn hơn chiều rộng. </s>"
+USER,mắt của người này?
+ASSISTANT,"Người đàn ông trong ảnh có đôi mắt xanh sáng, biểu cảm và có hồn. Đôi mắt của anh ấy có hình dạng hơi dài và hẹp, với lông mày rậm và lông mi dài. </s>"
+USER,chân mày thì như thế nào?
+ASSISTANT,"Người đàn ông trong ảnh có đôi lông mày rậm và rậm rạp. Chúng có hình dạng hơi cong và hướng lên trên, tạo cho anh ấy một vẻ ngoài tự tin và quyết đoán. </s>"
+USER,gò má của ông này có đặc điểm gì?
+ASSISTANT,"Người đàn ông trong ảnh có gò má cao và nổi bật. Chúng có hình dạng tròn trịa và đầy đặn, tạo cho anh ấy một vẻ ngoài mạnh mẽ và nam tính. </s>"
+USER,miệng và môi của ông này như thế nào?
+ASSISTANT,"Người đàn ông trong ảnh có đôi môi mỏng và hơi cong. Chúng có màu hồng nhạt và có vẻ như được chăm sóc tốt. Miệng của anh ấy có hình dạng hơi rộng và hơi cong, tạo cho anh ấy một nụ cười ấm áp và thân thiện. </s>"
+USER,đặc điểm trán của người này là gì?
+ASSISTANT,Người đàn ông trong ảnh có trán rộng và đầy đặn. Nó có hình dạng hơi tròn và có một đường viền rõ ràng. Trán của anh ấy có màu sáng và không có nếp nhăn hoặc khuyết điểm đáng chú ý. </s>
+USER,ví trí tai như thế nào so với lông mày?
+ASSISTANT,Tai của người đàn ông trong ảnh nằm cao hơn lông mày một chút. Chúng có hình dạng hơi tròn và có một đường viền rõ ràng. Tai của anh ấy có màu sáng và không có nếp nhăn hoặc khuyết điểm đáng chú ý. </s>
+USER,ông này có đẹp trai không?
+ASSISTANT,"Dựa trên các đặc điểm trên khuôn mặt của người đàn ông trong ảnh, tôi sẽ nói rằng anh ấy có một vẻ ngoài hấp dẫn và dễ chịu. Các đặc điểm trên khuôn mặt của anh ấy cân đối, hài hòa và có sức hấp dẫn. Tuy nhiên, vẻ đẹp là một khái niệm chủ quan và sở thích cá nhân có thể khác nhau. </s>"

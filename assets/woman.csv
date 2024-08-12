@@ -1,0 +1,33 @@
+USER,"<image>
+mô tả tam đình của người này. Với Tam đình bao gồm ""thượng đình"" là từ trán đến lông mày, ""trung đình"" là từ lông mày đến sống mũi, ""hạ đình"" là từ dưới mũi đến cằm."
+ASSISTANT,"Người phụ nữ trong ảnh có tam đình cân đối. Thượng đình của cô ấy rộng và đầy đặn, trung đình của cô ấy thẳng và cân đối, và hạ đình của cô ấy đầy đặn và tròn trịa. Tam đình cân đối cho thấy cô ấy có sức khỏe tốt và có thể sống lâu. </s>"
+USER,mô tả tam đình
+ASSISTANT,"Tam đình của người phụ nữ trong ảnh là cân đối và hài hòa. Thượng đình của cô ấy rộng và đầy đặn, trung đình của cô ấy thẳng và cân đối, và hạ đình của cô ấy đầy đặn và tròn trịa. Tam đình cân đối cho thấy cô ấy có sức khỏe tốt và có thể sống lâu. </s>"
+USER,mô tả hình dạng khuôn mặt
+ASSISTANT,"Người phụ nữ trong ảnh có khuôn mặt hình bầu dục. Khuôn mặt bầu dục là hình dạng khuôn mặt cân đối và hài hòa, với chiều rộng trán và cằm gần bằng nhau. Người phụ nữ trong ảnh có trán rộng và cằm tròn, tạo nên hình dạng khuôn mặt bầu dục. </s>"
+USER,Mặt ngừoi này có dài không?
+ASSISTANT,"Không, mặt người này không dài. Mặt cô ấy có hình bầu dục, có nghĩa là chiều rộng trán và cằm gần bằng nhau. </s>"
+USER,Mắt của cô ấy như thế nào?
+ASSISTANT,"Mắt của người phụ nữ trong ảnh to và tròn, với lông mi dài và cong. Mắt cô ấy có màu nâu sẫm và có vẻ rất biểu cảm. </s>"
+USER,mô tả lông mày
+ASSISTANT,"Lông mày của người phụ nữ trong ảnh rậm và cong, tạo nên vẻ ngoài quyến rũ và hấp dẫn. Lông mày của cô ấy có màu nâu sẫm và hòa hợp với màu tóc của cô ấy. </s>"
+USER,mô tả sơn căn
+ASSISTANT,"Sơn căn của người phụ nữ trong ảnh rộng và đầy đặn, tạo nên vẻ ngoài tự tin và quyết đoán. Sơn căn của cô ấy có màu nâu sẫm và hòa hợp với màu tóc của cô ấy. </s>"
+USER,"mô tả sơn căn. Với sơn căn là vị trí nằm dưới ấn đường, nằm giữa hai mắt, và là vị trí cao nhất của sống mũi."
+ASSISTANT,"Sơn căn của người phụ nữ trong ảnh rộng và đầy đặn, tạo nên vẻ ngoài tự tin và quyết đoán. Sơn căn của cô ấy có màu nâu sẫm và hòa hợp với màu tóc của cô ấy. </s>"
+USER,mô tả gò má
+ASSISTANT,"Gò má của người phụ nữ trong ảnh cao và đầy đặn, tạo nên vẻ ngoài khỏe mạnh và tràn đầy sức sống. Gò má của cô ấy có màu nâu sẫm và hòa hợp với màu tóc của cô ấy. </s>"
+USER,mô tả miệng
+ASSISTANT,"Miệng của người phụ nữ trong ảnh rộng và đầy đặn, tạo nên vẻ ngoài thân thiện và cởi mở. Miệng cô ấy có màu hồng nhạt và có vẻ rất biểu cảm. </s>"
+USER,mô tả miệng và môi
+ASSISTANT,"Miệng của người phụ nữ trong ảnh rộng và đầy đặn, tạo nên vẻ ngoài thân thiện và cởi mở. Môi cô ấy có màu hồng nhạt và có vẻ rất biểu cảm. </s>"
+USER,"mô tả tai, và vị trí của nó so với mặt"
+ASSISTANT,"Tai của người phụ nữ trong ảnh lớn và tròn, tạo nên vẻ ngoài hấp dẫn và quyến rũ. Tai cô ấy có màu nâu sẫm và có vẻ rất biểu cảm. Tai cô ấy nằm ở hai bên đầu, với phần trên của tai nằm gần với đỉnh đầu. </s>"
+USER,mô tả tai của cô ấy
+ASSISTANT,"Tai của người phụ nữ trong ảnh lớn và tròn, tạo nên vẻ ngoài hấp dẫn và quyến rũ. Tai cô ấy có màu nâu sẫm và có vẻ rất biểu cảm. Tai cô ấy nằm ở hai bên đầu, với phần trên của tai nằm gần với đỉnh đầu. </s>"
+USER,mô tả trán
+ASSISTANT,"Trán của người phụ nữ trong ảnh rộng và đầy đặn, tạo nên vẻ ngoài tự tin và quyết đoán. Trán cô ấy có màu nâu sẫm và hòa hợp với màu tóc của cô ấy. </s>"
+USER,đặc điểm cằm của cô ấy như thế nào?
+ASSISTANT,"Cằm của người phụ nữ trong ảnh đầy đặn và tròn, tạo nên vẻ ngoài thân thiện và cởi mở. Cằm cô ấy có màu nâu sẫm và hòa hợp với màu tóc của cô ấy. </s>"
+USER,đặc điểm của trán
+ASSISTANT,"Trán của người phụ nữ trong ảnh rộng và đầy đặn, tạo nên vẻ ngoài tự tin và quyết đoán. Trán cô ấy có màu nâu sẫm và hòa hợp với màu tóc của cô ấy. </s>"
